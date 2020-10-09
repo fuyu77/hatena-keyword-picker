@@ -2,6 +2,6 @@
 
 Puppeteerではてなブログ記事中のはてなブログタグを取得するスクリプト。
 
-[puppeteerでWebスクレイピングが捗る ―株マップ.comの銘柄スクリーニング結果を取得する― - あなたとあなたの話がしたい](https://fuyu.hatenablog.com/entry/2020/01/26/101742)
+[Puppeteerで記事本文中のはてなブログタグを取得する - あなたとあなたの話がしたい](https://fuyu.hatenablog.com/entry/2020/10/09/215305)
 
 詳細は上掲ブログ記事に記載。
